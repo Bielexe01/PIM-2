@@ -1,0 +1,13 @@
+3
+1
+Agente de Triagem
+Classifica chamados por urgencia e encaminha para o setor responsavel.
+4.50
+2
+Agente de Atendimento
+Responde duvidas frequentes dos clientes sobre produtos e prazos.
+3.00
+3
+Agente de Codigo
+Sugere correcoes de codigo C e aponta erros de logica.
+5.00
